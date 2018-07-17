@@ -1,7 +1,7 @@
 # The Minion Game from Hackerrank
 
 def minion_game(string):
-    # your code goes here
+    # Logic is that to check for all possible combinations
     vowels = 'AEIOU'
 
     kevsc = 0
