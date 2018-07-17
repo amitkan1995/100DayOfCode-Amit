@@ -1,4 +1,4 @@
-# To count the frequecny of alphabet in a string
+# To count the frequency of alphabet in a string
 
 def count(st):
     occur={}
