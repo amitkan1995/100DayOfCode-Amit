@@ -1,5 +1,5 @@
 # The Minion Game from Hackerrank
-
+# Link to the problem  https://www.hackerrank.com/challenges/the-minion-game/problem
 def minion_game(string):
     # Logic is that to check for all possible combinations
     vowels = 'AEIOU'
