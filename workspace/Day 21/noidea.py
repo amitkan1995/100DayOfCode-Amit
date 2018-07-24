@@ -1,4 +1,5 @@
 # No idea hackerrank problem
+
 n, m = input().split()
 sc_ar = input().split()
 
