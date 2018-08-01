@@ -1,0 +1,3 @@
+Developed my initial prototype of Solar System using THREE.js
+
+Link to repository (https://github.com/amitkan1995/solar)
