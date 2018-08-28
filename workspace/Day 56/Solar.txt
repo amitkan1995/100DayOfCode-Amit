@@ -1,0 +1,3 @@
+ Worked on Soar System.
+ Optimized earth model and speed slider is now working
+ 
