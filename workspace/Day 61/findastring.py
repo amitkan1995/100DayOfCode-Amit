@@ -4,7 +4,6 @@ def count_substring(string, sub_string):
     #print(sublen,":",len(string))
     count=0
     for i in range(0,len(string)):
-        temp=""
         if(len(string)-i<sublen):
             break  
         t=string[i:sublen+i]
