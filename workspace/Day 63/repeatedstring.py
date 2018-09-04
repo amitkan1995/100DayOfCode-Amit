@@ -16,7 +16,7 @@ def repeatedString(s, n):
             ans += 1
     k = n//len(s)
     ans *= k
-    r = n%len(s);
+    r = n%len(s)
     for i in range(0,r):
         if s[i] == 'a':
             ans += 1
